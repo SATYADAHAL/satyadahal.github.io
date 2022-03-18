@@ -1,2 +1,2 @@
 ## Just my website
-<a href="satyadhal.github.io">satyadhal.github.io</a>
+<i><h2><a href="https://satyadahal.github.io/">https://satyadahal.github.io</a></h2></i>
